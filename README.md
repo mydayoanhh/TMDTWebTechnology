@@ -8,8 +8,11 @@ XÂY DỰNG ỨNG DỤNG THƯƠNG MẠI ĐIỆN TỬ - NHÓM 07
 Thành viên nhóm:
 
 Phạm Thị Oanh
+
 Hoàng Thị Lan Hương
+
 Huỳnh Tấn Minh
+
 Nguyễn Dương Thuý Ngân
 
 Công nghệ sử dụng
